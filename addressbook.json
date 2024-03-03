@@ -1,0 +1,37 @@
+{
+    "records": [
+        {
+            "name": "Petro",
+            "address": "Lviv",
+            "phones": [
+                "0674030512"
+            ],
+            "emails": [
+                "petro@bigmir.net"
+            ],
+            "birthday": "1980-02-02"
+        },
+        {
+            "name": "Петро",
+            "address": "Львів",
+            "phones": [
+                "0674030698"
+            ],
+            "emails": [
+                "m.perto@gmail.com"
+            ],
+            "birthday": "1982-08-02"
+        },
+        {
+            "name": "Dmytro",
+            "address": "Kiyv",
+            "phones": [
+                "0932510019"
+            ],
+            "emails": [
+                "dmytro.sv@ukr.net"
+            ],
+            "birthday": "1986-10-01"
+        }
+    ]
+}
